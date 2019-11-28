@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nameObj"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="@color/colorPrimaryDark"
+    android:gravity="center"
+    android:padding="16dp"
+    android:textSize="40sp"
+    android:text=""
+    android:textAllCaps="true"
+    android:background="@drawable/round_bg">
+
+</TextView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!---
+        /******************************************************
+        Aplicacion Desarrollada por:
+        Javier Mercado Velazquez
+        Facultad de Estudios Superiores Aragon
+        Ingenieria en Computacion
+        11/27/19
+
+        Aplicación digital realizada con el apoyo del Programa UNAM-DGAPA-PAPIME-PE110418"
+
+
+        **********************************************************/
+    -->
+

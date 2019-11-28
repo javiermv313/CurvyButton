@@ -1,0 +1,12 @@
+# Blender MTL File: 'cilindro.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 440.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.037361 0.800000 0.017014
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.550000
+d 0.270718
+illum 9

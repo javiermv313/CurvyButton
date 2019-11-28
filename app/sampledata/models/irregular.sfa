@@ -1,0 +1,42 @@
+{
+  materials: [
+    {
+      name: 'Material.001',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.035671000000000001,
+            0.80000000000000004,
+            0.049158,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: 0.31958799999999998,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/models/irregular.obj',
+    name: 'irregular',
+    recenter: 'root',
+    scale: 0.26739000000000002,
+  },
+  version: '0.54:2',
+}

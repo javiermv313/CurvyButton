@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".UserFragment"
+    android:orientation="vertical">
+    <!-- TODO: Update blank fragment layout -->
+
+      <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:id="@+id/cosmocta"
+        android:src="@drawable/dgapa">
+
+      </ImageButton>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_gravity="center_vertical|bottom">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:text="Aplicación digital realizada con el apoyo del Programa UNAM-DGAPA-PAPIME-PE110418">
+
+            </TextView>
+
+
+
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+    </GridLayout>
+
+
+
+</LinearLayout>
+
+
+
+
+
+    <!---
+        /******************************************************
+        Aplicacion Desarrollada por:
+        Javier Mercado Velazquez
+        Facultad de Estudios Superiores Aragon
+        Ingenieria en Computacion
+        11/27/19
+
+        Aplicación digital realizada con el apoyo del Programa UNAM-DGAPA-PAPIME-PE110418"
+
+
+        **********************************************************/
+    -->

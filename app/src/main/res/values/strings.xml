@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EucAR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_ar2">Ar2</string>
+    <string name="title_activity_ar3">Ar3</string>
+    <string name="title_activity_ar4">Ar4</string>
+    <string name="title_activity_ar5">Ar5</string>
+    <string name="title_activity_ar6">Ar6</string>
+    <string name="title_activity_ar1">Ar1</string>
+</resources>
